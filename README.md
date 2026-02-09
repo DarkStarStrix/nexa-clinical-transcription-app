@@ -19,7 +19,7 @@ If Nexa runtime is unavailable (e.g., emulator / non-Qualcomm device), the app s
 
 - Local build output (not intended to be committed to git): `artifacts/app-bounty-debug.apk`
 - SHA256 (current local build):
-  - `7242926369416186c9cb19e3175446c59c6436daef605985ecee646c5a17e548`
+  - `0d0904ffb9b36c3cf5576c8a0c51c69edb768b63dce829c064754dada7dff09a`
 
 For sharing, upload the APK as a **GitHub Release asset** (APK is often >100MB, which many git hosts reject in normal commits). Then link it here:
 
