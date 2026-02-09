@@ -24,7 +24,7 @@ If Nexa runtime is unavailable (e.g., emulator / non-Qualcomm device), the app s
 For sharing, upload the APK as a **GitHub Release asset** (APK is often >100MB, which many git hosts reject in normal commits). Then link it here:
 
 ```text
-https://github.com/<your-org-or-user>/<repo>/releases/latest
+https://github.com/DarkStarStrix/nexa-clinical-transcription-app/releases/latest
 ```
 
 ## Build And Run (Reproducible)
